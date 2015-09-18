@@ -54,7 +54,7 @@ typedef cpFloat (*cpSpatialIndexSegmentQueryFunc)(void *obj1, void *obj2, void *
 typedef struct cpSpatialIndexClass cpSpatialIndexClass;
 typedef struct cpSpatialIndex cpSpatialIndex;
 
-/// @private
+/// private
 struct cpSpatialIndex {
 	cpSpatialIndexClass *klass;
 	
