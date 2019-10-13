@@ -22,6 +22,7 @@
 #import "ObjectiveChipmunk/ObjectiveChipmunk.h"
 #import "chipmunk/chipmunk_private.h"
 #import "chipmunk/cpHastySpace.h"
+#import "chipmunk/chipmunk_private.h"
 
 #import <objc/message.h>
 #import <TargetConditionals.h>

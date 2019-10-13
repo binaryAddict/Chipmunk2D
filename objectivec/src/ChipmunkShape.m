@@ -20,6 +20,7 @@
  */
 
 #import "ObjectiveChipmunk/ObjectiveChipmunk.h"
+#import "chipmunk/chipmunk_private.h"
 
 @interface ChipmunkSpace(DoubleDispatch)
 
